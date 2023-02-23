@@ -1,1 +1,1 @@
-# PW course, Laboratory work Nr. 1
+# Web Programming course, Laboratory work Nr. 1
